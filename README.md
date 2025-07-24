@@ -1,7 +1,6 @@
-# 🚲 Dashboard in Excel
+# 👚 Dashboard in Excel
 ## Project Overview
-This analysis was performed to answer questions regarding bike-buying trends among the population and to create an interactive visualization of the key findings. The analysis included basic data cleaning, creating value ranges using <code style="color : name_color">IF</code> statements, establishing <code style="color : name_color">PivotTables</code>  and building a dashboard.
-
+This analysis was conducted to explore merchandise buying trends among the population and to create an interactive visualization of the key findings. Since the initial dataset was already cleaned, the data cleaning step was skipped. The analysis focused on creating ranges using <code>IF</code> statements and `<code>PivotTables</code>, and the findings were then visualized in dashboards.
 ##
 ##
 ##
