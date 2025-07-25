@@ -7,7 +7,7 @@ The dataset used for this analysis was downloaded from Kaggle. It contains detai
 In total, it includes 15 columns and 7,394 rows.
 
 <br/> 
-Source:[Kaggle,Merchandise Sales](https://www.kaggle.com/datasets/adarsh0806/influencer-merchandise-sales)
+Source:<a href="https://www.kaggle.com/datasets/adarsh0806/influencer-merchandise-sales">Kaggle, Merchandise Sales</a>
 
 ##
 ##
