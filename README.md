@@ -10,6 +10,7 @@ Source: <a href="https://www.kaggle.com/datasets/adarsh0806/influencer-merchandi
 
 ### Tools
 - Excel - Data Analysis and Dashboards
+- Python - Basic Sentiment Analysis
   
 ##
 
