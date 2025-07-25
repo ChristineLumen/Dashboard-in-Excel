@@ -4,6 +4,7 @@ This analysis was conducted to explore merchandise buying trends among the popul
 
 ## Data Source
 The data was downloaded from Kaggle
+Source:
 https://www.kaggle.com/datasets/adarsh0806/influencer-merchandise-sales 
 
 ##
