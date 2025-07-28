@@ -28,7 +28,7 @@ The EDA explores the merchandise dataset to answer key questions, such as:
         
   2. Creating Pivot Table
      To answer the EDA questions, I created three Pivot Tables
-
   3. Dashboard
      Created visualizations for all three Pivot Tables with slicers for Gender, Price Range, and International Shipping.
-  
+  <img width="913" height="532" alt="Screenshot 2025-07-24 at 1 02 39 PM" src="https://github.com/user-attachments/assets/6fbcdd33-d731-4812-bbaa-d8d1f0607280" />
+
