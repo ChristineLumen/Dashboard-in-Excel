@@ -23,18 +23,12 @@ The EDA explores the merchandise dataset to answer key questions, such as:
 **Excel**:
   1. Prepare the data table for creating a Pivot Table
       - Group ages into ranges such as _Professional_,_Students_, _Young Professionals_
-            <br>=IF([Age]>=30, "Professionals", IF([Age]<=23, "Students", "Young Professionals"))</br>
       - Group prices into ranges such as _Cheap_, _Mid-Range_, _Expensive_
-            <br> =IF([Price]>90, "Expensive", IF([Price]>=45, "Mid-range", "Cheap"))</br>
       - Extract the month from [Order Date]
-            <br> =CHOOSE(MONTH(([Order Date])), "January","February","March","April","May","June","July","August","September","October","November","December")</br>
-
+        
   2. Creating Pivot Table
-     To answer the EDA questions, I created three Pivot Tables:
-        - Columns: Product Category | Rows: Age Segment | Values: Sum of Total Sales
-        - Columns: Price Range | Rows: Age Segment | Values: Sum of Total Sales
-        - Columns: Product Category | Rows: Month | Values: Sum of Quantity
-          
+     To answer the EDA questions, I created three Pivot Tables
+
   3. Dashboard
      Created visualizations for all three Pivot Tables with slicers for Gender, Price Range, and International Shipping.
   
