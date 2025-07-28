@@ -26,9 +26,7 @@ The EDA explores the merchandise dataset to answer key questions, such as:
       - Group prices into ranges such as _Cheap_, _Mid-Range_, _Expensive_
       - Extract the month from [Order Date]
         
-  2. Creating Pivot Table
-     To answer the EDA questions, I created three Pivot Tables
-  3. Dashboard
-     Created visualizations for all three Pivot Tables with slicers for Gender, Price Range, and International Shipping.
+  2. Created Pivot Tables to answer the EDA questions
+  3. Built a dashboard that visualizes all three Pivot Tables with slicers for Gender, Price Range, and International Shipping
   <img width="913" height="532" alt="Screenshot 2025-07-24 at 1 02 39 PM" src="https://github.com/user-attachments/assets/6fbcdd33-d731-4812-bbaa-d8d1f0607280" />
 
