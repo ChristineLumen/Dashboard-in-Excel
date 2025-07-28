@@ -18,3 +18,5 @@ The EDA explores the merchandise dataset to answer key questions, such as:
 - Which merchandise categories are most popular across different age segments?
 - What tag price range is most common within each age group?
 - What are the overall monthly sales by merchandise category?
+
+#### Data Analysis
