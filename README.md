@@ -21,6 +21,12 @@ The EDA explores the merchandise dataset to answer key questions, such as:
 
 ### Data Analysis
 **Excel**:
-- Group age into age ranges, such as _Professional_,_Students_, _Young Professionals_
-  =IF([<sub>Cell</sub>Age]>=30, "Professionals", IF([<sub>Cell</sub>Age]<=23, "Students", "Young Professionals"))
+1. Prepare the data table for creating a Pivot Table
+- Group ages into ranges such as _Professional_,_Students_, _Young Professionals_
+  =IF([Age]>=30, "Professionals", IF([Age]<=23, "Students", "Young Professionals"))
+- Group prices into ranges such as _Cheap_, _Mid-Range_, _Expensive_
+  =IF([Price]>90, "Expensive", IF([Price]>=45, "Mid-range", "Cheap"))
+- Extract the month from [Order Date]
+  =CHOOSE(MONTH(([Order Date])), "January","February","March","April","May","June","July","August","September","October","November","December")
+  
   
