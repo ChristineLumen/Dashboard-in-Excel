@@ -12,5 +12,9 @@ Source: <a href="https://www.kaggle.com/datasets/adarsh0806/influencer-merchandi
 - Excel - Data Analysis and Dashboards
 - Python - Basic Sentiment Analysis
   
-### Explanatory Data Analysis
- 
+
+### Exploratory Data Analysis
+The EDA explores the merchandise dataset to answer key questions, such as:
+- Which merchandise categories are most popular across different age segments?
+- What tag price range is most common within each age group?
+- What are the overall monthly sales by merchandise category?
