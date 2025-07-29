@@ -9,10 +9,9 @@ In total, it includes 15 columns and 7,394 rows.
 Source: <a href="https://www.kaggle.com/datasets/adarsh0806/influencer-merchandise-sales">Kaggle, Merchandise Sales</a>
 
 ### Tools
-- Excel - Data Analysis and Dashboards
-- Python - Basic Sentiment Analysis
+- Excel: Data Analysis and Dashboards
+- Excel: Visualization
   
-
 ### Exploratory Data Analysis
 The EDA explores the merchandise dataset to answer key questions, such as:
 - Which merchandise categories are most popular across different age segments?
@@ -20,7 +19,6 @@ The EDA explores the merchandise dataset to answer key questions, such as:
 - What are the overall monthly sales by merchandise category?
 
 ### Data Analysis
-**Excel**:
   1. Prepare the data table for creating a Pivot Table
       - Group ages into ranges such as _Professional_,_Students_, _Young Professionals_
       - Group prices into ranges such as _Cheap_, _Mid-Range_, _Expensive_
@@ -30,3 +28,13 @@ The EDA explores the merchandise dataset to answer key questions, such as:
   3. Built a dashboard that visualizes all three Pivot Tables with slicers for Gender, Price Range, and International Shipping
   <img width="913" height="532" alt="Screenshot 2025-07-24 at 1 02 39 PM" src="https://github.com/user-attachments/assets/6fbcdd33-d731-4812-bbaa-d8d1f0607280" />
 
+### Results
+The analysis results are summarized as following:
+- Cloth dominates sales across all consumer groups
+- Clothing sales peaked notably in May and July
+- Students have the highest preference for expensive items(34.5%)
+  
+## Recommendations
+1. Students are the most profitable group, especially among females, despite the assumption of limited budgets
+2. Clothing is the main revenue driver, so it’s worth considering expanding inventory and focusing marketing efforts in this category
+3. Ornaments show seasonal interest, suggesting they could be marketed more heavily during those months
