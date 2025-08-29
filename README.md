@@ -10,7 +10,7 @@ Source: <a href="https://www.kaggle.com/datasets/adarsh0806/influencer-merchandi
 
 ### Tools 
 - Excel: Data Analysis and Dashboards
-- Excel: Visualization 
+- Excel: Visualization
   
 ### Exploratory Data Analysis
 The EDA explores the merchandise dataset to answer key questions, such as:
