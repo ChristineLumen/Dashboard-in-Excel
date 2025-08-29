@@ -18,7 +18,7 @@ The EDA explores the merchandise dataset to answer key questions, such as:
 - What tag price range is most common within each age group? 
 - What are the overall monthly sales by merchandise category? 
 
-### Data Analysis
+### Data Analysis 
   1. Prepare the data table for creating a Pivot Table
       - Group ages into ranges such as _Professional_,_Students_, _Young Professionals_
       - Group prices into ranges such as _Cheap_, _Mid-Range_, _Expensive_
