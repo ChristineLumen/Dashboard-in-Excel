@@ -16,7 +16,7 @@ Source: <a href="https://www.kaggle.com/datasets/adarsh0806/influencer-merchandi
 The EDA explores the merchandise dataset to answer key questions, such as: 
 - Which merchandise categories are most popular across different age segments? 
 - What tag price range is most common within each age group?
-- What are the overall monthly sales by merchandise category? 
+- What are the overall monthly sales by merchandise category?
 
 ### Data Analysis 
   1. Prepare the data table for creating a Pivot Table
